@@ -8,7 +8,7 @@ body{
 
 #encabezado{
     display: flex;
-    background-color: darksalmon;
+    background-color: rgb(122, 174, 233);
     height: 90px;
     justify-content: space-between;
     align-items: center;
