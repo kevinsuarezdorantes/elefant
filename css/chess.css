@@ -1,0 +1,14 @@
+.bg-custom{
+    background-color: rgb(128, 128, 128);
+}
+
+.special-img{
+    -webkit-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+.special-img:hover{
+    -webkit-transform: scale(0.9);
+        -ms-transform: scale(0.9);
+            transform: scale(0.9);
+}
