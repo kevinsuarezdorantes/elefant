@@ -24,3 +24,8 @@
 .card3{
     background-color: rgb(77, 151, 255);
 }
+
+a{
+    text-decoration: none;
+    color: black;
+}
