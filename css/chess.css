@@ -29,3 +29,22 @@ a{
     text-decoration: none;
     color: black;
 }
+
+
+
+
+/*=========================MEDIA QUERIES PANTALLA EXTRA-SM================================*/
+
+@media (max-width: 576px) {
+    .centerquery{
+        justify-content: center !important;
+        text-align: center !important;
+    }
+
+    .query_titles{
+        font-size:3rem !important;
+    }
+}
+
+
+
