@@ -43,8 +43,12 @@ a{
 
     .query_titles{
         font-size:3rem !important;
+        
     }
 }
 
 
-
+.profesor_1{
+    width: 10rem;
+    height: 10rem;
+}
